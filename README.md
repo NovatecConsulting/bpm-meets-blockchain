@@ -8,6 +8,10 @@ Resources used:
 
 - [How to Setup a Local Solidity Development Environment With VSCode, Remix, and Truffle Suite](https://betterprogramming.pub/how-i-set-up-my-local-solidity-development-environment-with-vscode-remix-and-truffle-suite-addd20ef9c)
 
+## Environment Variables
+
+Navigate to the `docker` directory and rename `example.env` to `.env` and fill in both values. The `ACCOUNT_PASSWORD` field will correspond to the initial User's password generated on the blockchain when building the image.
+
 ## Useful commands and results
 
 ### Check generated User:
